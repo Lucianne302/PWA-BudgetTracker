@@ -26,12 +26,10 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Installation
 npm install 
-npm i -D webpack webpack-cli
-npm i webpack-dev-server -D
-npm i -D webpack-pwa-manifest
+
 
 ## Credits
-Collaborator: Tutors, Stuart Fraser & Ben Abbott
+Collaborator: Tutors, Stuart Fraser & Ben Abbott, TA
 
 ## Contributors
 
@@ -41,16 +39,16 @@ Module/lesson 19: Progressive Web Applications (PWA)
 NPM Express, https://www.npmjs.com/package/express-session 
 Understanding 'unique' in Mongoose, https://masteringjs.io/tutorials/mongoose/unique 
 Mongoose's matching validation, https://mongoosejs.com/docs/validation.html 
-Mongoose - validate email syntax, https://stackoverflow.com/questions/18022365/mongoose-validate-email-syntax 
-Mongoose version key, https://stackoverflow.com/questions/12495891/what-is-the-v-field-in-mongoose 
-Mongoose Delete Many, https://www.geeksforgeeks.org/mongoose-deletemany-function/ 
+
 
 
 ## Test
-tested applications adding console logs. Used Insomnia to test get, posts, put and delete environments.  
+tested applications adding console logs.
 
 ## Questions
 GitHub Username: Lucianne302 
 GitHub Profile Link:  https://lucianne302.github.io/socialNetworkAPI/
+Heroku Deployed: https://lit-woodland-64423.herokuapp.com/
+
 
 ## Video
